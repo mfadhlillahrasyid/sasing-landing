@@ -10,7 +10,7 @@ export default function TopUp() {
     "Halo Ketua! mau Top-Up Mobile Legends nih"
   );
 
-  const waLink = `https://wa.me/6285177946241?text=${message}`;
+  const waLink = `https://wa.me/6285169093024?text=${message}`;
 
   const Link = [
     {
