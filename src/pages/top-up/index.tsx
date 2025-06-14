@@ -1,3 +1,5 @@
+import SEO from "@/components/seo";
+
 /* eslint-disable @next/next/no-img-element */
 export default function TopUp() {
   const handleClick = () => {
@@ -23,6 +25,11 @@ export default function TopUp() {
 
   return (
     <>
+      <SEO
+        title="Top Up | Sasing Gaming"
+        description="PT Molassindo Merupakan produsen Ethanol terkemuka di Kota Medan, Kami sudah berdiri sejak 2005 dan berkomitmen untuk menjadi salah satu produsen Ethanol terbesar di Indonesia"
+      />
+
       <div className="bg-neutral-900 max-w-lg mx-auto min-h-screen">
         <img src="/banner.jpg" className="w-full" alt="" />
         <div className="text-center p-10 text-white relative z-20 -mt-24">
