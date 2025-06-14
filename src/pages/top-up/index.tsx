@@ -14,9 +14,9 @@ export default function TopUp() {
 
   const Link = [
     {
-      img: "/sasing-button/Jasa Joki Mobile Legends.jpg",
-      title: "Joki-in Akun Ketua!",
-      desc: "Serahin ke Tim Sasing gaming Ketua!",
+      img: "/sasing-button/Top Up Mobile Legens.jpg",
+      title: "Top-Up Sekarang Ketua!",
+      desc: "Top Up di Sasing Gaming Lebih Mudah",
       url: waLink
     }
   ];
